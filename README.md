@@ -1,5 +1,5 @@
 # The Great App List
-I like building things, and I espeically love things that challenge the way I think or how I approach them. 
+I like building things, and I especially love things that challenge the way I think or how I approach them. 
 
 ## Social 
 - Imzy Clone (dorker)
@@ -10,9 +10,12 @@ I like building things, and I espeically love things that challenge the way I th
 ## AI
 - Discord Chatbot (Dave)
 - Image Recognition (Dave MK2)
-- AI Assistant (Dave MK3, with MK1 and MK2 incopertated with web scraping)
+- AI Assistant (Dave MK3, with MK1 and MK2 incorporated with web scraping)
 
 ## Other
-- Ecomcerce platform
+- Ecommerce platform
 - Blog CMS
 - Photography CMS
+
+## Crazy and Ambitious Goals
+- Dapchain, a p2p distributed blockchain based on 'proof of host'
