@@ -16,6 +16,7 @@ I like building things, and I especially love things that challenge the way I th
 - Ecommerce platform
 - Blog CMS
 - Photography CMS
+- Electron based Static Website Generator (CMS)
 
 ## Crazy and Ambitious Goals
 - Dapchain, a p2p distributed blockchain based on 'proof of host'
